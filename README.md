@@ -9,7 +9,7 @@ As of now, installation steps are not formalized. The configuration is not yet r
 1. Clone the repository:
    ```
    https://github.com/SarthakTechie/awesome-wm.git
-   '''
+   ```
 
 ## License
 

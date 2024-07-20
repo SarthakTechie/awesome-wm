@@ -3,6 +3,8 @@
 ## Overview
 This repository contains my personal configuration for AwesomeWM. Please note that this configuration is currently under development and is in a very basic state. While work has been started, I highly recommend against installing or using it unless you are comfortable with minimal functionality and expect potential bugs.
 
+![Awesome Showcase](assets/awesome.png)
+
 ## Installation
 As of now, installation steps are not formalized. The configuration is not yet ready for general use, as it lacks many features and optimizations. However, if you still wish to try it out:
 

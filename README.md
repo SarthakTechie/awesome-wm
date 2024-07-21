@@ -39,7 +39,9 @@ cp -r $HOME/awesome-wm/alacritty/ $HOME/.config/
 ```
 sudo pacman -S fastfetch
 ```
+```
 cp -r $HOME/awesome-wm/fastfetch/ $HOME/.config/
+```
 ```
 yay -S pipes.sh
 ```

@@ -13,7 +13,7 @@ Cheers! 🥳🍀
 
 Happy ricing! 🛠️🎉
 # Showcase 💫✨
-![Screenshot](assests/awesome.png)
+![Screenshot](assets/awesome.png)
 
 # Updating your system 🔧
 ```

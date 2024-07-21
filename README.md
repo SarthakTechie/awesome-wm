@@ -117,13 +117,11 @@ curl -sS https://starship.rs/install.sh | sh
 ```
 ```
 For BASH:
-mv pacman.sh ~/.local/share/
-echo '$HOME/.local/share/pacman.sh' >> ~/.bashrc
+echo 'eval "$(starship init bash)"' >> ~/.bashrc
 ```
 ```
 For ZSH:
-mv pacman.sh ~/.local/share/
-echo '$HOME/.local/share/pacman.sh' >> ~/.zshrc
+echo 'eval "$(starship init zsh)"' >> ~/.zshrc
 ```
 Installing Gruvbox Rainbow Preset 
 ```

@@ -148,6 +148,9 @@ Gruvbox Material
 | Super + D     | Rofi |
 | Super + Shift + Enter  | Terminal (Alacritty)  |
 
+## Installation Script 
+The work on the installation script has begun.
+
 ## License
 
 This project is licensed under the MIT License.

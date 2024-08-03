@@ -571,7 +571,7 @@ client.connect_signal("unfocus", function(c) c.border_color = beautiful.border_n
 -- Startup Applications
 awful.util.spawn("picom")
 awful.util.spawn("nitrogen --restore")
-awful.util.spawn("polybar")
+awful.spawn.with_shell("~/.config/polybar/launch_polybar.sh")
 
 -- beautiful gaps
 beautiful.useless_gap = 12
